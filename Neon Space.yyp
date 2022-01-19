@@ -1,0 +1,58 @@
+{
+  "resources": [
+    {"id":{"name":"TileBG","path":"tilesets/TileBG/TileBG.yy",},"order":0,},
+    {"id":{"name":"o_bulletP","path":"objects/o_bulletP/o_bulletP.yy",},"order":2,},
+    {"id":{"name":"s_Player","path":"sprites/s_Player/s_Player.yy",},"order":0,},
+    {"id":{"name":"s_bg","path":"sprites/s_bg/s_bg.yy",},"order":2,},
+    {"id":{"name":"BulletP_s","path":"sprites/BulletP_s/BulletP_s.yy",},"order":3,},
+    {"id":{"name":"o_game","path":"objects/o_game/o_game.yy",},"order":5,},
+    {"id":{"name":"o_enemy1","path":"objects/o_enemy1/o_enemy1.yy",},"order":1,},
+    {"id":{"name":"o_Player","path":"objects/o_Player/o_Player.yy",},"order":0,},
+    {"id":{"name":"BulletE_s","path":"sprites/BulletE_s/BulletE_s.yy",},"order":4,},
+    {"id":{"name":"Shoot","path":"scripts/Shoot/Shoot.yy",},"order":0,},
+    {"id":{"name":"s_Enemy1","path":"sprites/s_Enemy1/s_Enemy1.yy",},"order":1,},
+    {"id":{"name":"o_bulletE","path":"objects/o_bulletE/o_bulletE.yy",},"order":3,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+  ],
+  "Options": [
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "isDnDProject": false,
+  "isEcma": false,
+  "tutorialPath": "",
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "Folders": [
+    {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Tile Sets.yy","order":1,"resourceVersion":"1.0","name":"Tile Sets","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sounds.yy","order":13,"resourceVersion":"1.0","name":"Sounds","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Paths.yy","order":2,"resourceVersion":"1.0","name":"Paths","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Scripts.yy","order":12,"resourceVersion":"1.0","name":"Scripts","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Fonts.yy","order":4,"resourceVersion":"1.0","name":"Fonts","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects.yy","order":6,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Rooms.yy","order":7,"resourceVersion":"1.0","name":"Rooms","tags":[],"resourceType":"GMFolder",},
+  ],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2.3.7.606",
+  },
+  "resourceVersion": "1.4",
+  "name": "Neon Space",
+  "tags": [],
+  "resourceType": "GMProject",
+}
